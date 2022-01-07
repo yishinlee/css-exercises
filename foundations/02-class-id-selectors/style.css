@@ -1,0 +1,20 @@
+.odd-number {
+    background-color: #ffc0cb;
+    font-family: 'Verdana', sans-serif;
+}
+
+.oddly-cool {
+    font-size: 24px;
+}
+
+#second-element {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+
+#fourth-element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
